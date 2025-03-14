@@ -70,7 +70,7 @@ fun MainScreen() {
                 modifier = Modifier.weight(1f)
             )
             Text(
-                text = "Batuhan Akkurt",
+                text = "Bai",
                 fontSize = 30.sp,
                 fontFamily = FontFamily.Monospace,
                 textAlign = TextAlign.Center
